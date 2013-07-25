@@ -1,0 +1,12 @@
+{
+  "name": "symbols",
+  "version": "0.0.0",
+  "description": "symbols",
+  "author": "Hiroki Tani",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-webfont": "~0.1.5",
+    "grunt-contrib-watch": "~0.5.1"
+  }
+}
