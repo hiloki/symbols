@@ -10,8 +10,8 @@ module.exports = function(grunt) {
 				options: {
 					font: 'symbol',
 					template: 'templates/template.css',
-					htmlDemo: false,
-					stylesheet: 'scss',
+					htmlDemo: true,
+					stylesheet: 'css',
 					// stylesheet: 'less',
 					// stylesheet: 'stylus',
 					relativeFontPath: '../symbol/'

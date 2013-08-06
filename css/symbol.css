@@ -1,0 +1,32 @@
+/* Custom template */
+
+@font-face {
+	font-family:"symbol";
+	src: url("../symbol/symbol-80430d5bdd5dedc2becd63fa6542b1c6.eot");
+	src: url("../symbol/symbol-80430d5bdd5dedc2becd63fa6542b1c6.eot?#iefix") format("embedded-opentype"),
+		url("../symbol/symbol-80430d5bdd5dedc2becd63fa6542b1c6.woff") format("woff"),
+		url("../symbol/symbol-80430d5bdd5dedc2becd63fa6542b1c6.ttf") format("truetype"),
+		url("../symbol/symbol-80430d5bdd5dedc2becd63fa6542b1c6.svg?#webfont") format("svg");
+	font-weight:normal;
+	font-style:normal;
+	}
+
+.ico {
+	font-family:"symbol";
+	display:inline-block;
+	font-style:normal;
+	speak:none;
+	-webkit-font-smoothing:antialiased;
+	}
+
+/* Icons */
+.ico-delete:before { content:"\f100"; }
+.ico-down:before { content:"\f101"; }
+.ico-edit:before { content:"\f102"; }
+.ico-facebook:before { content:"\f103"; }
+.ico-left:before { content:"\f104"; }
+.ico-minus:before { content:"\f105"; }
+.ico-plus:before { content:"\f106"; }
+.ico-right:before { content:"\f107"; }
+.ico-twitter:before { content:"\f108"; }
+.ico-up:before { content:"\f109"; }
